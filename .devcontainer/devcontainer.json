@@ -1,0 +1,16 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/dotnet
+{
+	"name": "C# (.NET)",
+	"dockerComposeFile": [
+		"../docker/docker-compose.yaml"
+	],
+	"service": "dev-env",
+	"workspaceFolder": "/workspace",
+	"settings": {},
+	"extensions": [
+		"ms-dotnettools.csharp",
+		"shardulm94.trailing-spaces",
+		"mikestead.dotenv",
+	],
+}

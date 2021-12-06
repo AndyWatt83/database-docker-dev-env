@@ -1,0 +1,14 @@
+/workspace/Blog.Database/bin/Debug/net6.0/Blog.Database.deps.json
+/workspace/Blog.Database/bin/Debug/net6.0/Blog.Database.runtimeconfig.json
+/workspace/Blog.Database/bin/Debug/net6.0/Blog.Database.dll
+/workspace/Blog.Database/bin/Debug/net6.0/ref/Blog.Database.dll
+/workspace/Blog.Database/bin/Debug/net6.0/Blog.Database.pdb
+/workspace/Blog.Database/obj/Debug/net6.0/Blog.Database.csproj.AssemblyReference.cache
+/workspace/Blog.Database/obj/Debug/net6.0/Blog.Database.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Blog.Database/obj/Debug/net6.0/Blog.Database.AssemblyInfoInputs.cache
+/workspace/Blog.Database/obj/Debug/net6.0/Blog.Database.AssemblyInfo.cs
+/workspace/Blog.Database/obj/Debug/net6.0/Blog.Database.csproj.CoreCompileInputs.cache
+/workspace/Blog.Database/obj/Debug/net6.0/Blog.Database.dll
+/workspace/Blog.Database/obj/Debug/net6.0/ref/Blog.Database.dll
+/workspace/Blog.Database/obj/Debug/net6.0/Blog.Database.pdb
+/workspace/Blog.Database/obj/Debug/net6.0/Blog.Database.genruntimeconfig.cache
